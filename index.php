@@ -1,4 +1,5 @@
 <?php
+// Windows dry-run: setup check only, no ticket work.
 /**
  * CodeIgniter
  *
